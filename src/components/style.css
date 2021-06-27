@@ -1,0 +1,13 @@
+a{
+    text-decoration: none;
+    color: #232323;
+    transition: all 0.2s ease-in-out;
+}
+
+a:hover{
+    color: #2940D3;
+}
+
+.MuiCardContent-root:last-child{
+    padding-bottom: 16px !important;
+}
